@@ -1,2 +1,2 @@
-# GemOS-Syscalls
+# GemOS
 Implementation of System Calls
